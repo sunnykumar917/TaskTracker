@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "id": "u6",
+      "username": "ssr",
+      "role": "admin",
+      "email": "ssr@gmail.com",
+      "password": "12345",
+      "name": "ssr"
+    },
+    {
+      "id": "admin1",
+      "username": "admin",
+      "role": "admin",
+      "email": "admin@example.com",
+      "password": "123",
+      "name": "SSR Admin"
+    },
+    {
+      "id": "u1",
+      "username": "sunnykumar",
+      "role": "developer",
+      "email": "sunnykumar@example.com",
+      "password": "password123",
+      "name": "Sunny Kumar"
+    },
+    {
+      "id": "u3",
+      "username": "sunnysingh",
+      "role": "developer",
+      "email": "sunnysingh@example.com",
+      "password": "password123",
+      "name": "Sunny Singh"
+    },
+    {
+      "id": "u4",
+      "username": "rajput",
+      "role": "developer",
+      "email": "rajput@example.com",
+      "password": "password123",
+      "name": "Rajput"
+    },
+    {
+      "id": "u12",
+      "username": "ss",
+      "role": "developer",
+      "email": "sk@gmail.com",
+      "password": "121",
+      "name": "ss"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Complete React Project",
+      "description": "Build a task management app using React.",
+      "priority": "High",
+      "assignee": "sunnykumar",
+      "date": "2024-12-14",
+      "status": "InProgress"
+    },
+    {
+      "id": "t2",
+      "title": "Fix Bug in API",
+      "description": "Resolve the issue with the task API.",
+      "priority": "Medium",
+      "assignee": "sunnysingh",
+      "date": "2024-12-13",
+      "status": "Done"
+    },
+    {
+      "id": "t3",
+      "title": "Test New Features",
+      "description": "Test the newly added features of the app.",
+      "priority": "Low",
+      "assignee": "ss",
+      "date": "2024-12-12",
+      "status": "ToDo",
+      "comments": [
+        "1234"
+      ]
+    },
+    {
+      "id": "t4",
+      "title": "Write Documentation",
+      "description": "Document the app's functionality and setup.",
+      "priority": "Medium",
+      "assignee": "ss",
+      "date": "2024-12-15",
+      "status": "ToDo",
+      "comments": [
+        "hello"
+      ]
+    },
+    {
+      "title": "Deploy to Production",
+      "description": "Deploy the application to the production server.",
+      "assignee": "sunnykumar",
+      "status": "ToDo",
+      "deadline": "2024-12-31",
+      "id": "t5"
+    },
+    {
+      "id": "t6",
+      "title": "Test UI Components",
+      "description": "Test the new UI components added in the app.",
+      "priority": "Medium",
+      "assignee": "sunnykumar",
+      "date": "2024-12-17",
+      "status": "Done"
+    },
+    {
+      "id": "t7",
+      "title": "Improve Performance",
+      "description": "Optimize the app performance by reducing load time.",
+      "priority": "High",
+      "assignee": "rajput",
+      "date": "2024-12-18",
+      "status": "Done"
+    },
+    {
+      "id": "t8",
+      "title": "Refactor Codebase",
+      "description": "Refactor the legacy code to improve maintainability.",
+      "priority": "Low",
+      "assignee": "sunnysingh",
+      "date": "2024-12-19",
+      "status": "InProgress"
+    },
+    {
+      "id": "t9",
+      "title": "Conduct User Testing",
+      "description": "Run user testing sessions to collect feedback on the app.",
+      "priority": "High",
+      "assignee": "rajput",
+      "date": "2024-12-20",
+      "status": "InProgress"
+    },
+    {
+      "id": "t10",
+      "title": "Integrate Payment Gateway",
+      "description": "Integrate a payment gateway for processing payments.",
+      "priority": "High",
+      "assignee": "sunnykumar",
+      "date": "2024-12-21",
+      "status": "InProgress"
+    },
+    {
+      "id": "90a7",
+      "title": "hello",
+      "description": "njkmlv sc",
+      "assignee": "ss",
+      "status": "Done",
+      "deadline": "2024-12-26",
+      "projectDate": "2024-12-25",
+      "img": "Become-a-Volunteer-removebg-preview (1).png"
+    }
+  ],
+  "dashboardStats": {
+    "totalUsers": 10,
+    "totalProjects": 5,
+    "tasksCompleted": 7,
+    "tasksPending": 3
+  },
+  "recentActivities": [
+    {
+      "description": "Completed task 'Improve Performance'",
+      "user": "rajput",
+      "time": "2024-12-18T14:00:00Z",
+      "id": "4adf"
+    },
+    {
+      "description": "Added a new project",
+      "user": "sunnysingh",
+      "time": "2024-12-18T10:30:00Z",
+      "id": "6bd6"
+    },
+    {
+      "description": "Updated user profile",
+      "user": "sunnykumar",
+      "time": "2024-12-18T09:45:00Z",
+      "id": "3fe6"
+    }
+  ]
+}
